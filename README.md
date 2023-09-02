@@ -4,5 +4,5 @@
 
 
 <div align="center">
-<h2> Seja, bem vindo Guilherme Augusto ☕!</h2>
+<h2> Seja, bem vindo Guilherme Augusto &#x2615;!</h2>
 
