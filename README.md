@@ -7,7 +7,7 @@
 <h2> Seja, bem vindo Guilherme Augusto &#x2615;!</h2>
  <p align="center">
 
-    <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,bootstrap,vscode" />
+   
   </a>
  </a>
 </p>
