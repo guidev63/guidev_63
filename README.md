@@ -7,7 +7,7 @@
 <h2> Seja, bem vindo Guilherme Augusto &#x2615;!</h2>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash react,git,github,html,css,javascript,bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,bootstrap,vscode" />
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
  </a>
