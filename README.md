@@ -9,7 +9,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,vscode&perline=10" />
   </a>
-   
+   <div id="header" align="center">
+    <img src="https://media.giphy.com/media/mVN7gJLIKHUbK/giphy.gif" width="250" />
+</div>
   </a>
  </a>
 </p>
