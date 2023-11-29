@@ -6,11 +6,14 @@
 <div align="center">
 <h2> Seja, bem vindo Guilherme Augusto &#x2615;!</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"/icons?i=aws,gcp,azure,react>
+    
     <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,vscode&perline=10" />
+    
   </a>
    <div id="header" align="center">
     <img src="https://media.giphy.com/media/mVN7gJLIKHUbK/giphy.gif" width="250" />
+     
 </div>
   </a>
  </a>
