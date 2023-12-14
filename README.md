@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Augusto </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,js,nodejs,html" />
+    <img src="https://skillicons.dev/icons?i=html,git,react,js,nodejs" />
   </a>
 </p>
   <a href="https://instagram.com/guilherme_dev_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
