@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Augusto </h1>
 <p align="center">
   
-  <a href="https://skillicons.dev/">
+   <a href="https://skillicons.dev">
     
     <img src="https://skillicons.dev/icons?i=bash,git,github,html,css,javascript,vscode&perline=10" />
     
